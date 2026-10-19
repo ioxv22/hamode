@@ -1,0 +1,241 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="297mm" height="420mm" viewBox="0 0 1200 1697" role="img" aria-labelledby="title desc">
+  <title id="title">عينك المساعدة — نظارة ذكية لمساندة أصحاب الهمم</title>
+  <desc id="desc">بوستر علمي عربي يشرح فكرة نظارة ذكية تساعد المكفوفين وضعاف البصر على فهم البيئة والتنقل باستقلالية أكبر.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8faf6"/>
+      <stop offset="1" stop-color="#edf3ed"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d493e"/>
+      <stop offset="1" stop-color="#082d28"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e4c779"/>
+      <stop offset="1" stop-color="#b78d3d"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#183d45"/>
+      <stop offset="1" stop-color="#0d252d"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#173c33" flood-opacity=".11"/>
+    </filter>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.5" fill="#b8cbbd"/>
+    </pattern>
+    <style>
+      text { font-family: "Arial", "Tahoma", sans-serif; }
+      .rtl { direction: rtl; unicode-bidi: plaintext; }
+      .card { fill: #fff; stroke: #dce7dd; stroke-width: 2; }
+      .section-title { font-size: 28px; font-weight: 700; fill: #103f35; }
+      .body { font-size: 21px; fill: #314b43; }
+      .small { font-size: 18px; fill: #51665f; }
+      .goldline { stroke: #c5a354; stroke-width: 4; stroke-linecap: round; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="1697" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="16" fill="url(#green)"/>
+  <circle cx="1120" cy="150" r="130" fill="url(#dots)" opacity=".6"/>
+  <circle cx="70" cy="1130" r="120" fill="url(#dots)" opacity=".45"/>
+
+  <!-- Header -->
+  <g>
+    <path d="M72 66h12v98H72z" fill="url(#gold)" rx="6"/>
+    <text x="1100" y="115" text-anchor="end" class="rtl" font-size="75" font-weight="800" fill="#0b3d33">عينك المساعدة</text>
+    <text x="1100" y="163" text-anchor="end" class="rtl" font-size="26" fill="#426158">نظارة ذكية توظّف الذكاء الاصطناعي لمساندة أصحاب الهمم</text>
+    <g transform="translate(82 190)">
+      <rect width="1036" height="2" fill="#d7e2d9"/>
+      <rect width="200" height="4" rx="2" fill="url(#gold)"/>
+    </g>
+  </g>
+
+  <!-- Hero band -->
+  <g filter="url(#shadow)">
+    <rect x="64" y="222" width="1072" height="418" rx="30" fill="url(#green)"/>
+  </g>
+  <circle cx="1020" cy="300" r="155" fill="#fff" opacity=".035"/>
+  <circle cx="1030" cy="520" r="110" fill="#41a8bd" opacity=".08"/>
+  <g>
+    <text x="640" y="294" text-anchor="end" class="rtl" font-size="34" font-weight="700" fill="#f1d68d">تقنية أقرب إلى الاستقلال</text>
+    <text x="640" y="345" text-anchor="end" class="rtl" font-size="24" fill="#f5f7f4">
+      <tspan x="640" dy="0">تلتقط النظارة المشهد، ثم يحلّله النظام</tspan>
+      <tspan x="640" dy="38">ويقدّم وصفاً أو تنبيهاً صوتياً موجزاً.</tspan>
+      <tspan x="640" dy="48" font-size="20" fill="#c9ddd4">أداة مساندة تساعد المستخدم على فهم ما حوله،</tspan>
+      <tspan x="640" dy="31" font-size="20" fill="#c9ddd4">ولا تستبدل العصا البيضاء أو وسائل السلامة المعتادة.</tspan>
+    </text>
+    <g transform="translate(112 454)">
+      <rect width="505" height="112" rx="20" fill="#ffffff" opacity=".09" stroke="#ffffff" stroke-opacity=".18"/>
+      <circle cx="58" cy="56" r="28" fill="#d8bb70"/>
+      <path d="M48 56h20M58 46v20" stroke="#113d34" stroke-width="4" stroke-linecap="round"/>
+      <text x="465" y="49" text-anchor="end" class="rtl" font-size="22" font-weight="700" fill="#fff">مساندة ذكية، بخطوات واضحة</text>
+      <text x="465" y="81" text-anchor="end" class="rtl" font-size="18" fill="#d6e5de">استكشاف بصري • تحليل • إرشاد صوتي</text>
+    </g>
+  </g>
+
+  <!-- Original illustration: Emirati student and phone -->
+  <g transform="translate(690 235)">
+    <!-- soft halo -->
+    <ellipse cx="235" cy="352" rx="218" ry="28" fill="#051f1c" opacity=".28"/>
+    <!-- kandura body -->
+    <path d="M106 350 Q126 263 190 246 L286 246 Q354 272 375 373 L380 392 L76 392Z" fill="#f4f3ed"/>
+    <path d="M185 252 L235 327 L286 252" fill="#e5e5df"/>
+    <path d="M221 263h26v129h-26z" fill="#ecece6"/>
+    <circle cx="235" cy="350" r="4" fill="#c5a354"/>
+    <circle cx="235" cy="367" r="4" fill="#c5a354"/>
+    <!-- neck -->
+    <rect x="208" y="212" width="54" height="58" rx="20" fill="#a96e4b"/>
+    <!-- face -->
+    <ellipse cx="235" cy="161" rx="84" ry="100" fill="#bd805d"/>
+    <path d="M153 159 Q149 66 235 58 Q321 66 317 159 L302 124 Q282 103 235 106 Q188 103 168 124Z" fill="#fff"/>
+    <!-- ghutra folds -->
+    <path d="M158 100 Q177 72 204 67 L188 133 Q172 160 153 171Z" fill="#e9e9e3"/>
+    <path d="M312 100 Q292 72 266 67 L282 133 Q299 158 317 171Z" fill="#f4f4ef"/>
+    <path d="M154 123 Q175 143 175 177 M315 124 Q294 145 294 177" fill="none" stroke="#d4d6d0" stroke-width="5"/>
+    <!-- agal -->
+    <path d="M154 105 Q161 49 235 49 Q309 49 316 105" fill="none" stroke="#171c1b" stroke-width="13" stroke-linecap="round"/>
+    <path d="M159 111 Q176 128 195 132 M311 111 Q294 128 275 132" fill="none" stroke="#202522" stroke-width="7"/>
+    <!-- face details -->
+    <path d="M197 163h22 M252 163h22" stroke="#49362d" stroke-width="5" stroke-linecap="round"/>
+    <path d="M236 167l-8 28 12 3" fill="none" stroke="#986248" stroke-width="4" stroke-linecap="round"/>
+    <path d="M218 213 Q235 221 253 213" fill="none" stroke="#744538" stroke-width="4" stroke-linecap="round"/>
+    <!-- smart glasses -->
+    <g fill="#183840" fill-opacity=".95" stroke="#c7aa61" stroke-width="4">
+      <rect x="182" y="148" width="48" height="31" rx="10"/>
+      <rect x="240" y="148" width="48" height="31" rx="10"/>
+      <path d="M230 158 Q235 153 240 158" fill="none"/>
+      <path d="M182 158l-17-7 M288 158l17-7" fill="none"/>
+    </g>
+    <circle cx="211" cy="163" r="5" fill="#58c5df"/>
+    <!-- phone -->
+    <g transform="translate(347 185) rotate(7)">
+      <rect x="0" y="0" width="112" height="194" rx="18" fill="#111d20" stroke="#d7bd79" stroke-width="4"/>
+      <rect x="9" y="13" width="94" height="168" rx="11" fill="url(#screen)"/>
+      <rect x="34" y="20" width="43" height="5" rx="3" fill="#7a9291"/>
+      <circle cx="56" cy="67" r="25" fill="#42a8bb" opacity=".2"/>
+      <path d="M41 71l11-14 9 10 7-6 11 17H36Z" fill="#6ec6d0"/>
+      <rect x="22" y="105" width="68" height="9" rx="4" fill="#f5f7f1"/>
+      <rect x="22" y="122" width="52" height="7" rx="4" fill="#a9c5c4"/>
+      <rect x="22" y="143" width="68" height="22" rx="11" fill="#c7a95c"/>
+      <path d="M45 154l8 6 13-14" fill="none" stroke="#173a35" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <!-- scan signal -->
+    <path d="M302 169 Q338 154 357 174" fill="none" stroke="#4cc3d5" stroke-width="3" stroke-dasharray="6 8"/>
+    <circle cx="332" cy="165" r="5" fill="#4cc3d5"/>
+    <text x="412" y="416" text-anchor="middle" class="rtl" font-size="17" fill="#d8e6df">تصوّر توضيحي للنموذج</text>
+  </g>
+
+  <!-- Information cards -->
+  <g filter="url(#shadow)">
+    <rect class="card" x="614" y="670" width="522" height="210" rx="24"/>
+    <rect class="card" x="64" y="670" width="522" height="210" rx="24"/>
+    <rect class="card" x="614" y="900" width="522" height="210" rx="24"/>
+    <rect class="card" x="64" y="900" width="522" height="210" rx="24"/>
+    <rect class="card" x="64" y="1130" width="1072" height="224" rx="24"/>
+    <rect class="card" x="64" y="1374" width="1072" height="170" rx="24"/>
+  </g>
+
+  <!-- Idea -->
+  <g>
+    <circle cx="1080" cy="714" r="22" fill="#e7f0eb"/>
+    <path d="M1080 700v28m-13-14h26" stroke="#0f5849" stroke-width="3" stroke-linecap="round"/>
+    <text x="1038" y="724" text-anchor="end" class="rtl section-title">فكرة المشروع</text>
+    <path d="M650 741h450" class="goldline"/>
+    <text x="1090" y="779" text-anchor="end" class="rtl body">
+      <tspan x="1090" dy="0">نظارة ذكية تلتقط صوراً للمحيط، وتستخدم</tspan>
+      <tspan x="1090" dy="31">معالجة بالذكاء الاصطناعي لوصف بعض</tspan>
+      <tspan x="1090" dy="31">الأشياء أو تنبيه المستخدم إلى عائق محتمل؛</tspan>
+      <tspan x="1090" dy="31">لتعزيز فهم البيئة والتنقل باستقلالية أكبر.</tspan>
+    </text>
+  </g>
+
+  <!-- Goals -->
+  <g>
+    <circle cx="530" cy="714" r="22" fill="#e7f0eb"/>
+    <path d="M518 714l8 8 16-18" fill="none" stroke="#0f5849" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="488" y="724" text-anchor="end" class="rtl section-title">أهداف المشروع</text>
+    <path d="M100 741h450" class="goldline"/>
+    <text x="540" y="779" text-anchor="end" class="rtl body">
+      <tspan x="540" dy="0">• تعزيز الاستقلالية والثقة.</tspan>
+      <tspan x="540" dy="31">• دعم السلامة والانتباه للمحيط.</tspan>
+      <tspan x="540" dy="31">• التعرّف على أشياء وعوائق مختارة.</tspan>
+      <tspan x="540" dy="31">• تقديم إرشادات صوتية موجزة.</tspan>
+    </text>
+  </g>
+
+  <!-- Components -->
+  <g>
+    <circle cx="1080" cy="944" r="22" fill="#e7f0eb"/>
+    <path d="M1068 944h24m-12-12v24" stroke="#0f5849" stroke-width="3" stroke-linecap="round"/>
+    <text x="1038" y="954" text-anchor="end" class="rtl section-title">مكوّنات النظام</text>
+    <path d="M650 971h450" class="goldline"/>
+    <text x="1090" y="1008" text-anchor="end" class="rtl body">
+      <tspan x="1090" dy="0">كاميرا • ميكروفون • سماعة أو توصيل صوتي</tspan>
+      <tspan x="1090" dy="33">هاتف ذكي • معالجة بالذكاء الاصطناعي</tspan>
+      <tspan x="1090" dy="33">ومستشعرات مساعدة عند الحاجة.</tspan>
+    </text>
+    <text x="1090" y="1090" text-anchor="end" class="rtl small">تُحدَّد المكوّنات النهائية بحسب النموذج الأولي.</text>
+  </g>
+
+  <!-- Benefits -->
+  <g>
+    <circle cx="530" cy="944" r="22" fill="#e7f0eb"/>
+    <path d="M518 952q12-21 24 0m-12-24v12" fill="none" stroke="#0f5849" stroke-width="3" stroke-linecap="round"/>
+    <text x="488" y="954" text-anchor="end" class="rtl section-title">الفوائد المتوقعة</text>
+    <path d="M100 971h450" class="goldline"/>
+    <text x="540" y="1010" text-anchor="end" class="rtl body">
+      <tspan x="540" dy="0">• دعم التنقل اليومي بوعي أكبر.</tspan>
+      <tspan x="540" dy="34">• تعزيز الثقة والاستقلالية.</tspan>
+      <tspan x="540" dy="34">• الإسهام في دمج أصحاب الهمم مجتمعياً.</tspan>
+    </text>
+  </g>
+
+  <!-- How it works -->
+  <g>
+    <text x="1090" y="1180" text-anchor="end" class="rtl section-title">آلية عمل النموذج</text>
+    <text x="1090" y="1212" text-anchor="end" class="rtl small">مسار مبسّط من التقاط المشهد إلى إيصال المعلومة</text>
+    <path d="M160 1280H1040" stroke="#c9d9ce" stroke-width="5" stroke-linecap="round"/>
+    <g>
+      <circle cx="1020" cy="1280" r="27" fill="#0e4a3e"/><text x="1020" y="1288" text-anchor="middle" font-size="22" font-weight="700" fill="#fff">١</text>
+      <circle cx="805" cy="1280" r="27" fill="#0e4a3e"/><text x="805" y="1288" text-anchor="middle" font-size="22" font-weight="700" fill="#fff">٢</text>
+      <circle cx="590" cy="1280" r="27" fill="#0e4a3e"/><text x="590" y="1288" text-anchor="middle" font-size="22" font-weight="700" fill="#fff">٣</text>
+      <circle cx="375" cy="1280" r="27" fill="#0e4a3e"/><text x="375" y="1288" text-anchor="middle" font-size="22" font-weight="700" fill="#fff">٤</text>
+      <circle cx="160" cy="1280" r="27" fill="#b18a3f"/><text x="160" y="1288" text-anchor="middle" font-size="22" font-weight="700" fill="#fff">٥</text>
+    </g>
+    <g class="rtl" text-anchor="middle" font-size="19" fill="#314b43">
+      <text x="1020" y="1330">التقاط صورة</text>
+      <text x="805" y="1330">تحليل المشهد</text>
+      <text x="590" y="1330">تحديد عنصر أو عائق</text>
+      <text x="375" y="1330">صياغة وصف موجز</text>
+      <text x="160" y="1330">تنبيه صوتي</text>
+    </g>
+  </g>
+
+  <!-- Project roadmap and future -->
+  <g>
+    <text x="1090" y="1421" text-anchor="end" class="rtl section-title">خطوات التنفيذ والتطوير</text>
+    <path d="M650 1440v78" stroke="#e3e9e3" stroke-width="2"/>
+    <text x="1090" y="1460" text-anchor="end" class="rtl body">
+      <tspan x="1090" dy="0">تحديد المشكلة ← تصميم الحل ← نموذج أولي</tspan>
+      <tspan x="1090" dy="32">برمجة النظام ← اختبار الأداء وتقييم النتائج</tspan>
+    </text>
+    <text x="610" y="1460" text-anchor="end" class="rtl" font-size="23" font-weight="700" fill="#0e4a3e">التطوير المستقبلي</text>
+    <text x="610" y="1494" text-anchor="end" class="rtl" font-size="18" fill="#425b52">
+      <tspan x="610" dy="0">دعم العربية • تحسين اكتشاف العوائق</tspan>
+      <tspan x="610" dy="27">تقليل زمن الاستجابة • ميزات ذكية إضافية</tspan>
+    </text>
+  </g>
+
+  <!-- Team -->
+  <g>
+    <rect x="64" y="1562" width="1072" height="74" rx="18" fill="#e7efe8" stroke="#d4e1d6" stroke-width="2"/>
+    <text x="1080" y="1608" text-anchor="end" class="rtl" font-size="23" font-weight="700" fill="#103f35">فريق العمل</text>
+    <text x="870" y="1608" text-anchor="end" class="rtl" font-size="20" fill="#425b52">أسماء الطلاب: __________________</text>
+    <text x="545" y="1608" text-anchor="end" class="rtl" font-size="20" fill="#425b52">المدرسة: ______________</text>
+    <text x="290" y="1608" text-anchor="end" class="rtl" font-size="20" fill="#425b52">المشرف: __________</text>
+  </g>
+
+  <rect x="0" y="1654" width="1200" height="43" fill="url(#green)"/>
+  <text x="600" y="1683" text-anchor="middle" class="rtl" font-size="21" font-weight="700" fill="#f1d68d">مشروع ابتكاري لتوظيف الذكاء الاصطناعي في خدمة المجتمع</text>
+</svg>
